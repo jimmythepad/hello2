@@ -1,4 +1,4 @@
-hello-world
+hello-world This should do it
 ===========
 
 Sample docker image to test docker deployments
