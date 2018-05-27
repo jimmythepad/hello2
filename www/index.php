@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Hello Wold!</title>
+	<title>Hello Wod!</title>
 	<link href='//fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 	<style>
 	body {
